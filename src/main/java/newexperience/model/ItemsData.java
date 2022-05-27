@@ -23,6 +23,4 @@ public class ItemsData {
         return color;
     }
 
-
-
 }
